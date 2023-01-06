@@ -57,6 +57,7 @@ app.post('/api/notes', (req, res) => {
         );
       }
     });
+    
 // The response for posting the note, either success or error
     const response = {
       status: 'success',
