@@ -8,5 +8,10 @@
         "title": "Test Note 2",
         "text": "This is another test note",
         "id": "4f032b28-8328-4ab2-af5c-98f4533f0d3b"
+    },
+    {
+        "title": "Practice Coding",
+        "text": "Make sure to practice your coding!",
+        "id": "d6e8bf95-6bbf-4c67-8bc8-51bc94ecc437"
     }
 ]
